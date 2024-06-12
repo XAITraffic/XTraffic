@@ -47,6 +47,6 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
 
 ## Meta Data
 The meta data for the sensors and incidents can be accessed through the following URL:
-[Meta Data URL](http://github.com/XAITraffic/XTraffic/xtraffic-metadata.json)
+[Meta Data URL](https://github.com/XAITraffic/XTraffic/blob/main/xtraffic-metadata.json)
 
 Feel free to explore and contribute to the repository. If you have any questions or suggestions, please open an issue or contact the authors.
