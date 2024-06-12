@@ -26,19 +26,7 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
 3. **Download the Dataset:**
     The dataset is available for download at the [provided URLs](https://www.kaggle.com/datasets/gpxlcj/xtraffic/). Follow the links to download the required files.
 
-4. **Load the Data:**
-    <!-- Use the provided scripts to load and preprocess the data.
-    ```python
-    import numpy as np
-
-    # Example to load traffic data for January
-    january_data = np.load('data/January_traffic.npy')
-    
-    # Example to load incident data
-    incident_data = np.load('data/incident_data.npy')
-    ``` -->
-
-5. **Run Examples:**
+4.  **Run Examples:**
     Example scripts are provided to demonstrate how to use the dataset for various tasks like incident classification, and causal analysis.
     ***For incident classification***:
     ```bash
