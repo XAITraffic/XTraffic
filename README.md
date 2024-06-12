@@ -29,16 +29,18 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
 4.  **Run Examples:**
     Example scripts are provided to demonstrate how to use the dataset for various tasks like incident classification, and causal analysis.
     
-    \\
+    
+    ***For traffic forecasting***:
+
+    We recommend you use the repository [LargeST](https://github.com/liuxu77/LargeST) for traffic forecasting tasks.
+
     ***For incident classification***:
     
-    Refer to [readme.md](./classification/readme.md) in the `classification` floder
+    Refer to [readme.md](./classification/readme.md) in the `classification` floder.
     
-    ***For global causal analysis***:
+    ***For causal analysis***:
 
-
-
-    ***For local causal analysis***:
+    Refer to [readme.md](./causal_analysis/readme.md) in the `causal_analysis` folder.
 
 
 ## Meta Data
