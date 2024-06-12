@@ -2,7 +2,7 @@
 # XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More
 
 ## Authors
-Xiaochuan Gou$*, Ziyue Li$*, Tian Lan$, Junpeng Lin, Zhishuai Li, Bingyu Zhao, Chen Zhang, Di Wang, Xiangliang Zhang
+Xiaochuan Gou\*, Ziyue Li\*, Tian Lan, Junpeng Lin, Zhishuai Li, Bingyu Zhao, Chen Zhang, Di Wang, Xiangliang Zhang
 
 *The authors contributed equally to this work.
 
