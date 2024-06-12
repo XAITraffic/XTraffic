@@ -39,11 +39,19 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
     ``` -->
 
 5. **Run Examples:**
-    Example scripts are provided to demonstrate how to use the dataset for various tasks like traffic forecasting, incident classification, and causal analysis.
+    Example scripts are provided to demonstrate how to use the dataset for various tasks like incident classification, and causal analysis.
+    ***For incident classification***:
     ```bash
     python examples/traffic_forecasting.py
     python examples/incident_classification.py
     ```
+
+    ***For global causal analysis***:
+
+
+
+    ***For local causal analysis***:
+
 
 ## Meta Data
 The meta data for the sensors and incidents can be accessed through the following URL:
