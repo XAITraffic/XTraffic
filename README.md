@@ -31,11 +31,9 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
     
     \\
     ***For incident classification***:
-    ```bash
-    python examples/traffic_forecasting.py
-    python examples/incident_classification.py
-    ```
-
+    
+    Refer to [readme.md](./classification/readme.md) in the `classification` floder
+    
     ***For global causal analysis***:
 
 
