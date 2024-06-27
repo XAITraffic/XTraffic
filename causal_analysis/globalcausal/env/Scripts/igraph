@@ -1,0 +1,4 @@
+#!c:\users\lantian\desktop\mm-dag\env\scripts\python.exe
+"""Small script to execute the igraph command line interface"""
+from igraph.app.shell import main
+main()
