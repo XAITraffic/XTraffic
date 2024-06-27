@@ -15,3 +15,5 @@ An example of local causal analysis is shown in `local_causal_analysis.ipynb`, a
 
 
 # Traffic Global Causal Analysis
+Put the data into `.\globalcausal`, then use `data_preprocess.ipynb` to generate the data for MM-DAG.
+Run `.\globalcausal\traffic_causal.py` for generating causal network.
