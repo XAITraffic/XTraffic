@@ -1,0 +1,45 @@
+Metadata-Version: 2.1
+Name: findiff
+Version: 0.9.2
+Summary: A Python package for finite difference derivatives in any number of dimensions.
+Home-page: https://github.com/maroba/findiff
+Author: Matthias Baer
+Author-email: matthias.r.baer@googlemail.com
+License: MIT
+Keywords: finite-differences,numerical-derivatives,scientific-computing
+Platform: ALL
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Requires-Python: >=3.6
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: sympy
+
+A Python package for finite difference derivatives in any number of dimensions.
+
+    Features:
+
+        * Differentiate arrays of any number of dimensions along any axis
+        * Partial derivatives of any desired order
+        * Accuracy order can be specified
+        * Accurate treatment of grid boundary
+        * Includes standard operators from vector calculus like gradient, divergence and curl
+        * Can handle uniform and non-uniform grids
+        * Can handle arbitrary linear combinations of derivatives with constant and variable coefficients
+        * Fully vectorized for speed
+        * Calculate raw finite difference coefficients for any order and accuracy for uniform and non-uniform grids
+        * _New in version 0.7:_ Generate matrix representations of arbitrary linear differential operators
+        * _New in version 0.8:_ Solve partial differential equations with Dirichlet or Neumann boundary conditions
+        * _New in version 0.9:_ Generate differential operators for generic stencils
+
+    
+
