@@ -12,3 +12,6 @@ folium==0.16.0
 ## Causal Analysis
 
 An example of local causal analysis is shown in `local_causal_analysis.ipynb`, and the related data is in the `data` sub-folder.
+
+
+# Traffic Global Causal Analysis
