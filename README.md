@@ -38,7 +38,7 @@ Welcome to the XTraffic dataset repository! This dataset integrates traffic and 
     
     Refer to [readme.md](./classification/readme.md) in the `classification` floder.
     
-    ***For causal analysis***:
+    ***For local&global causal analysis***:
 
     Refer to [readme.md](./causal_analysis/readme.md) in the `causal_analysis` folder.
 

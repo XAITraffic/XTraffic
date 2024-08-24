@@ -12,3 +12,8 @@ folium==0.16.0
 ## Causal Analysis
 
 An example of local causal analysis is shown in `local_causal_analysis.ipynb`, and the related data is in the `data` sub-folder.
+
+
+# Traffic Global Causal Analysis
+Put the data into `.\globalcausal`, then use `data_preprocess.ipynb` to generate the data for MM-DAG.
+Run `.\globalcausal\traffic_causal.py` for generating causal network.
