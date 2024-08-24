@@ -48,3 +48,18 @@ The meta data for the sensors and incidents can be accessed through the followin
 [Meta Data URL](https://github.com/XAITraffic/XTraffic/blob/main/xtraffic-metadata.json)
 
 Feel free to explore and contribute to the repository. If you have any questions or suggestions, please open an issue or contact the authors.
+
+
+## Citation
+If you use our dataset in your research, please cite our paper:
+
+```bibtex
+@misc{gou2024xtrafficdatasettrafficmeets,
+      title={XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More}, 
+      author={Xiaochuan Gou and Ziyue Li and Tian Lan and Junpeng Lin and Zhishuai Li and Bingyu Zhao and Chen Zhang and Di Wang and Xiangliang Zhang},
+      year={2024},
+      eprint={2407.11477},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2407.11477}, 
+}
