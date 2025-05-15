@@ -1,5 +1,5 @@
 
-# XTraffic: A Dataset Where Traffic Meets Incidents with Explainability and More
+# TraffiDent: A Dataset for Understanding the Interplay Between Traffic Dynamics and Incidents
 
 ## Authors
 Xiaochuan Gou\*, Ziyue Li\*, Tian Lan, Junpeng Lin, Zhishuai Li, Bingyu Zhao, Chen Zhang, Di Wang, Xiangliang Zhang
@@ -8,7 +8,7 @@ Xiaochuan Gou\*, Ziyue Li\*, Tian Lan, Junpeng Lin, Zhishuai Li, Bingyu Zhao, Ch
 
 
 ## Introduction
-Welcome to the XTraffic dataset repository! This dataset integrates traffic and incident data across a large-scale region, covering 16,972 traffic nodes over the entire year of 2023. XTraffic includes time-series data on traffic flow, lane occupancy, and average vehicle speed, along with spatiotemporally-aligned incident records across seven different classes. Each node also features detailed physical and policy-level meta-attributes of lanes. Our goal is to enhance the interpretability and practical applications of traffic management and safety analysis through this comprehensive dataset.
+Welcome to the TraffiDent dataset repository! This dataset integrates traffic and incident data across a large-scale region, covering 16,972 traffic nodes over the entire year of 2023. TraffiDent includes time-series data on traffic flow, lane occupancy, and average vehicle speed, along with spatiotemporally-aligned incident records across seven different classes. Each node also features detailed physical and policy-level meta-attributes of lanes. Our goal is to enhance the interpretability and practical applications of traffic management and safety analysis through this comprehensive dataset.
 
 ## How to Use
 1. **Clone the Repository:**
