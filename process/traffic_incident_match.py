@@ -8,8 +8,8 @@ from tqdm import tqdm
 
 
 def main(args):
-    incidents = pd.read_csv(incident_path, sep='\t')
-    meta_df = pd.read_csv('new_sensor_meta_feature.csv')
+    incidents = pd.read_csv(args.incident_path, sep='\t')
+    meta_df = pd.read_csv('sensor_meta_feature.csv')
 
     incidents = incidents[~incidents['Fwy'].isna()]
     incidents['Fwy'] = incidents['Fwy'].astype(int)
