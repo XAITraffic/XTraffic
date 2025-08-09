@@ -22,7 +22,13 @@ python traffic_incident_match.py --dis_threshold 0.5
 
 ***sensor_meta_feature.csv***
 
-2. Run the script file
+
+2. Establish OSRM
+
+Refer to the [official repo of OSRM](http://github.com/Project-OSRM/osrm-backend/) to start a OSRM service locally.
+
+
+3. Run the script file
 
 ```
 python adj_generation.py --eps
