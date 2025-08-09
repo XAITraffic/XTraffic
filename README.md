@@ -26,7 +26,7 @@ Welcome to the TraffiDent dataset repository! This dataset integrates traffic an
 3. **Download the Dataset:**
     The dataset is available for download at the [provided URLs](https://www.kaggle.com/datasets/gpxlcj/xtraffic/). Follow the links to download the required files.
 
-4. **Data Preprocess**
+4. **Data Preprocess:**
     We provide a generated adjacency matrix. If you want to generate the adjacency matrix by yourself, you can refer to [readme.md](./process/README.md). Also, we provide the simple methodology to do traffic and incident matching for downstream tasks.
 
 
