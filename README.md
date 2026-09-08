@@ -58,15 +58,12 @@ Feel free to explore and contribute to the repository. If you have any questions
 If you use our dataset in your research, please cite our NeurIPS 2025 paper, [TraffiDent: A Dataset for Understanding the Interplay Between Traffic Dynamics and Incidents](https://proceedings.neurips.cc/paper_files/paper/2025/hash/7813e19a86fd73d40f7e811ab15f6d5f-Abstract-Datasets_and_Benchmarks_Track.html):
 
 ```bibtex
-@inproceedings{NEURIPS2025_7813e19a,
-  author = {Gou, Xiaochuan and Li, Ziyue and Lan, Tian and Lin, Junpeng and Li, Zhishuai and Zhao, Bingyu and Zhang, Chen and Wang, Di and Zhang, Xiangliang},
+@inproceedings{gou2025traffident,
   title = {{TraffiDent}: A Dataset for Understanding the Interplay Between Traffic Dynamics and Incidents},
+  author = {Gou, Xiaochuan and Li, Ziyue and Lan, Tian and Lin, Junpeng and Li, Zhishuai and Zhao, Bingyu and Zhang, Chen and Wang, Di and Zhang, Xiangliang},
   booktitle = {Advances in Neural Information Processing Systems},
-  editor = {D. Belgrave and C. Zhang and H. Lin and R. Pascanu and P. Koniusz and M. Ghassemi and N. Chen},
   volume = {38},
   year = {2025},
-  publisher = {Curran Associates, Inc.},
-  doi = {10.52202/085713-2796},
-  url = {https://proceedings.neurips.cc/paper_files/paper/2025/file/7813e19a86fd73d40f7e811ab15f6d5f-Paper-Datasets_and_Benchmarks_Track.pdf}
+  doi = {10.52202/085713-2796}
 }
 ```
